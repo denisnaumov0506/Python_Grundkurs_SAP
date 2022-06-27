@@ -1,0 +1,119 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "triangle", "PythonApplication1\triangle.pyproj", "{C57F06EB-1483-40D2-829F-B7DA22727F75}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "stock_level", "stock_level\stock_level.pyproj", "{84420C5F-9E9D-48A3-A73D-2B684E94B563}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "star_wars", "star_wars\star_wars.pyproj", "{A0BBD42F-5D0C-42ED-BD3E-4794B9A7051C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "stock_exchange", "stock_exchange\stock_exchange.pyproj", "{2BC38DB2-6B5E-44A6-BED4-78DAB4FB9746}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "matrix_summation", "matrix_summation\matrix_summation.pyproj", "{1C6A3540-FD9F-4B47-9C2E-163A3CE20DAA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TupleExercise", "TupleExercise\TupleExercise.pyproj", "{29287366-E894-4E61-9EE5-581BE258F1E2}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "emojis", "emojis\emojis.pyproj", "{EBD5EB29-89F6-484D-AB79-A588E9B2DF2A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "encryption", "encryption\encryption.pyproj", "{67888BB4-AD28-46CC-8C1C-A1EB69EBD172}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "encryption2", "encryption2\encryption2.pyproj", "{E0F0BDD2-D14A-48A3-B56F-7D5039831BC1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Tests", "Tests\Tests.pyproj", "{268F6B4C-F23F-4CE7-AEE4-57383E9262A9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "numbers", "numbers\numbers.pyproj", "{409DBA5B-AA38-4030-93CE-C91DFA32E0F2}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "even_numbers", "even_numbers\even_numbers.pyproj", "{937E0364-7CDB-45A3-A3CD-9E879E30B5D8}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "invoice_data", "invoice_data\invoice_data.pyproj", "{EAE77415-5DC9-41BD-B47A-79E9C30F4F66}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "secret", "secret\secret.pyproj", "{570ABEA2-F8EF-42BC-B920-3BAEF7A27327}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "rock_paper_scissors", "rock_paper_scissors\rock_paper_scissors.pyproj", "{538B1858-046F-4353-A071-2D4D892A4025}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "student_data", "student_data\student_data.pyproj", "{D26B967C-33BF-45D1-B252-EF7A43FDC02B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "is_even", "is_even\is_even.pyproj", "{038F0EFF-C41F-45DC-B690-BED00D282CCA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "stopping_distance", "stopping_distance\stopping_distance.pyproj", "{09887C06-2E75-4773-B695-8B17D0CEE3AE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Vignere Cipher", "Vignere Cipher\Vignere Cipher.pyproj", "{FD5C0C4D-6F93-4F9E-A648-ECFB4AEB83F9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "is_prime", "is_prime\is_prime.pyproj", "{57DDDEA5-0FB5-47DB-99CC-66EC75FD97C1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "statistics_demo", "statistics\statistics_demo.pyproj", "{60425374-83CB-4229-BB55-9B2ABAD3E8D4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "sudoku_demo", "sudoku\sudoku_demo.pyproj", "{8C4E24E4-5FA1-4BC1-BF23-54A69A8855C1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "itunes", "itunes\itunes.pyproj", "{C5EE7165-2756-4273-A4E0-DAFFE88F32CF}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pie_demo", "pie_demo\pie_demo.pyproj", "{82F2359D-B774-4192-BE75-00B299240B9E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "wordle_demo", "wordle_demo\wordle_demo.pyproj", "{C7355390-BD28-411A-9031-4C2BA4A15724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C57F06EB-1483-40D2-829F-B7DA22727F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57F06EB-1483-40D2-829F-B7DA22727F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84420C5F-9E9D-48A3-A73D-2B684E94B563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84420C5F-9E9D-48A3-A73D-2B684E94B563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0BBD42F-5D0C-42ED-BD3E-4794B9A7051C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0BBD42F-5D0C-42ED-BD3E-4794B9A7051C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC38DB2-6B5E-44A6-BED4-78DAB4FB9746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC38DB2-6B5E-44A6-BED4-78DAB4FB9746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C6A3540-FD9F-4B47-9C2E-163A3CE20DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6A3540-FD9F-4B47-9C2E-163A3CE20DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29287366-E894-4E61-9EE5-581BE258F1E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29287366-E894-4E61-9EE5-581BE258F1E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD5EB29-89F6-484D-AB79-A588E9B2DF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD5EB29-89F6-484D-AB79-A588E9B2DF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67888BB4-AD28-46CC-8C1C-A1EB69EBD172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67888BB4-AD28-46CC-8C1C-A1EB69EBD172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0F0BDD2-D14A-48A3-B56F-7D5039831BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0F0BDD2-D14A-48A3-B56F-7D5039831BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268F6B4C-F23F-4CE7-AEE4-57383E9262A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268F6B4C-F23F-4CE7-AEE4-57383E9262A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{409DBA5B-AA38-4030-93CE-C91DFA32E0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{409DBA5B-AA38-4030-93CE-C91DFA32E0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937E0364-7CDB-45A3-A3CD-9E879E30B5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937E0364-7CDB-45A3-A3CD-9E879E30B5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE77415-5DC9-41BD-B47A-79E9C30F4F66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE77415-5DC9-41BD-B47A-79E9C30F4F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570ABEA2-F8EF-42BC-B920-3BAEF7A27327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570ABEA2-F8EF-42BC-B920-3BAEF7A27327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538B1858-046F-4353-A071-2D4D892A4025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538B1858-046F-4353-A071-2D4D892A4025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26B967C-33BF-45D1-B252-EF7A43FDC02B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26B967C-33BF-45D1-B252-EF7A43FDC02B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{038F0EFF-C41F-45DC-B690-BED00D282CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{038F0EFF-C41F-45DC-B690-BED00D282CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09887C06-2E75-4773-B695-8B17D0CEE3AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09887C06-2E75-4773-B695-8B17D0CEE3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5C0C4D-6F93-4F9E-A648-ECFB4AEB83F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5C0C4D-6F93-4F9E-A648-ECFB4AEB83F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57DDDEA5-0FB5-47DB-99CC-66EC75FD97C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57DDDEA5-0FB5-47DB-99CC-66EC75FD97C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60425374-83CB-4229-BB55-9B2ABAD3E8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60425374-83CB-4229-BB55-9B2ABAD3E8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4E24E4-5FA1-4BC1-BF23-54A69A8855C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4E24E4-5FA1-4BC1-BF23-54A69A8855C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5EE7165-2756-4273-A4E0-DAFFE88F32CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5EE7165-2756-4273-A4E0-DAFFE88F32CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82F2359D-B774-4192-BE75-00B299240B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82F2359D-B774-4192-BE75-00B299240B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7355390-BD28-411A-9031-4C2BA4A15724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7355390-BD28-411A-9031-4C2BA4A15724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3D94A24-D446-4615-BC88-093C89432126}
+	EndGlobalSection
+EndGlobal
